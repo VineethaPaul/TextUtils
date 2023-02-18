@@ -67,8 +67,7 @@ function App() {
                         </div>
                     </Route> */}
                     <Route exact path="/about" element={<About mode={mode}/>} />
-                        {/* <About mode={mode} /> */}
-                    {/* </Route> */}
+                       
                 </Routes>
             </div>
         </Router>
